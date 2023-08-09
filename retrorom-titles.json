@@ -74380,5 +74380,665 @@
     "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/n64/Smash%20Remix%201.4.0.png",
     "region": "US",
     "description": "Forwarder installer for 0512200002aa0000 and rom copier for roms/n64/Smash Remix 1.4.0.z64"
+  },
+  
+  "0592000000010000": {
+    "id": "0592000000010000",
+    "name": "Aero Blasters [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Aero%20Blasters%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000000000 and rom copier for roms/tg16/Aero Blasters.pce"
+  },
+  "0592000000030000": {
+    "id": "0592000000030000",
+    "name": "Air Zonk [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Air%20Zonk%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000020000 and rom copier for roms/tg16/Air Zonk.pce"
+  },
+  "0592000000050000": {
+    "id": "0592000000050000",
+    "name": "Alien Crush [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Alien%20Crush%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000040000 and rom copier for roms/tg16/Alien Crush.pce"
+  },
+  "0592000000070000": {
+    "id": "0592000000070000",
+    "name": "Andre' Panza Kick Boxing [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Andre%20Panza%20Kickboxing%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000060000 and rom copier for roms/tg16/Andre' Panza Kick Boxing.pce"
+  },
+  "0592000000090000": {
+    "id": "0592000000090000",
+    "name": "Ballistix [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Ballistix%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000080000 and rom copier for roms/tg16/Ballistix.pce"
+  },
+  "05920000000B0000": {
+    "id": "05920000000B0000",
+    "name": "Battle Royale [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Battle%20Royale%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000000a0000 and rom copier for roms/tg16/Battle Royale.pce"
+  },
+  "05920000000D0000": {
+    "id": "05920000000D0000",
+    "name": "Blazing Lazers [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Blazing%20Lazers%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000000c0000 and rom copier for roms/tg16/Blazing Lazers.pce"
+  },
+  "05920000000F0000": {
+    "id": "05920000000F0000",
+    "name": "Bloody Wolf [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Bloody%20Wolf%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000000e0000 and rom copier for roms/tg16/Bloody Wolf.pce"
+  },
+  "0592000000110000": {
+    "id": "0592000000110000",
+    "name": "Bomberman '93 [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Bomberman%20_93%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000100000 and rom copier for roms/tg16/Bomberman '93.pce"
+  },
+  "0592000000130000": {
+    "id": "0592000000130000",
+    "name": "Bomberman [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Bomberman%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000120000 and rom copier for roms/tg16/Bomberman.pce"
+  },
+  "0592000000150000": {
+    "id": "0592000000150000",
+    "name": "Bonk III - Bonk's Big Adventure [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Bonk%203%20-%20Bonk_s%20Big%20Adventure%20(CD)%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000140000 and rom copier for roms/tg16/Bonk III - Bonk's Big Adventure.pce"
+  },
+  "0592000000170000": {
+    "id": "0592000000170000",
+    "name": "Bonk's Adventure [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Bonk_s%20Adventure%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000160000 and rom copier for roms/tg16/Bonk's Adventure.pce"
+  },
+  "0592000000190000": {
+    "id": "0592000000190000",
+    "name": "Bonk's Revenge [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Bonk_s%20Revenge%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000180000 and rom copier for roms/tg16/Bonk's Revenge.pce"
+  },
+  "05920000001B0000": {
+    "id": "05920000001B0000",
+    "name": "Boxyboy [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Boxy%20Boy%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000001a0000 and rom copier for roms/tg16/Boxyboy.pce"
+  },
+  "05920000001D0000": {
+    "id": "05920000001D0000",
+    "name": "Bravoman [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Bravoman%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000001c0000 and rom copier for roms/tg16/Bravoman.pce"
+  },
+  "05920000001F0000": {
+    "id": "05920000001F0000",
+    "name": "Cadash [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Cadash%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000001e0000 and rom copier for roms/tg16/Cadash.pce"
+  },
+  "0592000000210000": {
+    "id": "0592000000210000",
+    "name": "Champions Forever Boxing [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Champions%20Forever%20Boxing%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000200000 and rom copier for roms/tg16/Champions Forever Boxing.pce"
+  },
+  "0592000000230000": {
+    "id": "0592000000230000",
+    "name": "Chew Man Fu [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Chew-Man-Fu%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000220000 and rom copier for roms/tg16/Chew Man Fu.pce"
+  },
+  "0592000000250000": {
+    "id": "0592000000250000",
+    "name": "China Warrior [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/China%20Warrior%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000240000 and rom copier for roms/tg16/China Warrior.pce"
+  },
+  "0592000000270000": {
+    "id": "0592000000270000",
+    "name": "Cratermaze [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Cratermaze%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000260000 and rom copier for roms/tg16/Cratermaze.pce"
+  },
+  "0592000000290000": {
+    "id": "0592000000290000",
+    "name": "Cyber Core [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Cyber%20Core%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000280000 and rom copier for roms/tg16/Cyber Core.pce"
+  },
+  "05920000002B0000": {
+    "id": "05920000002B0000",
+    "name": "Darkwing Duck [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Darkwing%20Duck%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000002a0000 and rom copier for roms/tg16/Darkwing Duck.pce"
+  },
+  "05920000002D0000": {
+    "id": "05920000002D0000",
+    "name": "Davis Cup Tennis [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Davis%20Cup%20Tennis%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000002c0000 and rom copier for roms/tg16/Davis Cup Tennis.pce"
+  },
+  "05920000002F0000": {
+    "id": "05920000002F0000",
+    "name": "Dead Moon [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Dead%20Moon%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000002e0000 and rom copier for roms/tg16/Dead Moon.pce"
+  },
+  "0592000000310000": {
+    "id": "0592000000310000",
+    "name": "Deep Blue [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Deep%20Blue%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000300000 and rom copier for roms/tg16/Deep Blue.pce"
+  },
+  "0592000000330000": {
+    "id": "0592000000330000",
+    "name": "Devil's Crush [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Devil_s%20Crush%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000320000 and rom copier for roms/tg16/Devil's Crush.pce"
+  },
+  "0592000000350000": {
+    "id": "0592000000350000",
+    "name": "Double Dungeons - W [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Double%20Dungeons%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000340000 and rom copier for roms/tg16/Double Dungeons - W.pce"
+  },
+  "0592000000370000": {
+    "id": "0592000000370000",
+    "name": "Dragon Spirit [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Dragon%20Spirit%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000360000 and rom copier for roms/tg16/Dragon Spirit.pce"
+  },
+  "0592000000390000": {
+    "id": "0592000000390000",
+    "name": "Dragon's Curse [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Dragon_s%20Curse%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000380000 and rom copier for roms/tg16/Dragon's Curse.pce"
+  },
+  "05920000003B0000": {
+    "id": "05920000003B0000",
+    "name": "Drop.Off [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Drop%20Off%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000003a0000 and rom copier for roms/tg16/Drop.Off.pce"
+  },
+  "05920000003D0000": {
+    "id": "05920000003D0000",
+    "name": "Dungeon Explorer [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Dungeon%20Explorer%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000003c0000 and rom copier for roms/tg16/Dungeon Explorer.pce"
+  },
+  "05920000003F0000": {
+    "id": "05920000003F0000",
+    "name": "Falcon [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Falcon%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000003e0000 and rom copier for roms/tg16/Falcon.pce"
+  },
+  "0592000000410000": {
+    "id": "0592000000410000",
+    "name": "Fantasy Zone [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Fantasy%20Zone%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000400000 and rom copier for roms/tg16/Fantasy Zone.pce"
+  },
+  "0592000000430000": {
+    "id": "0592000000430000",
+    "name": "Final Lap Twin [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Final%20Lap%20Twin%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000420000 and rom copier for roms/tg16/Final Lap Twin.pce"
+  },
+  "0592000000450000": {
+    "id": "0592000000450000",
+    "name": "Galaga '90 [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Galaga%20_90%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000440000 and rom copier for roms/tg16/Galaga '90.pce"
+  },
+  "0592000000470000": {
+    "id": "0592000000470000",
+    "name": "Ghost Manor [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Ghost%20Manor%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000460000 and rom copier for roms/tg16/Ghost Manor.pce"
+  },
+  "0592000000490000": {
+    "id": "0592000000490000",
+    "name": "Gunboat [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Gunboat%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000480000 and rom copier for roms/tg16/Gunboat.pce"
+  },
+  "05920000004B0000": {
+    "id": "05920000004B0000",
+    "name": "Hit the Ice - VHL - The Official Video Hockey League [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Dragon%20Slayer%20-%20The%20Legend%20of%20Heroes%20(CD)%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000004a0000 and rom copier for roms/tg16/Hit the Ice - VHL - The Official Video Hockey League.pce"
+  },
+  "05920000004D0000": {
+    "id": "05920000004D0000",
+    "name": "Impossamole [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Impossamole%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000004c0000 and rom copier for roms/tg16/Impossamole.pce"
+  },
+  "05920000004F0000": {
+    "id": "05920000004F0000",
+    "name": "J.J. & Jeff [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/J.J.%20_%20Jeff%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000004e0000 and rom copier for roms/tg16/J.J. & Jeff.pce"
+  },
+  "0592000000510000": {
+    "id": "0592000000510000",
+    "name": "Jack Nicklaus' Turbo Golf [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Jack%20Nicklaus%20Turbo%20Golf%20(CD)%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000500000 and rom copier for roms/tg16/Jack Nicklaus' Turbo Golf.pce"
+  },
+  "0592000000530000": {
+    "id": "0592000000530000",
+    "name": "Jackie Chan's Action Kung Fu [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Jackie%20Chan_s%20Action%20Kung%20Fu%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000520000 and rom copier for roms/tg16/Jackie Chan's Action Kung Fu.pce"
+  },
+  "0592000000550000": {
+    "id": "0592000000550000",
+    "name": "Keith Courage in Alpha Zones [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Keith%20Courage%20in%20Alpha%20Zones%20(USA%20Action,%20Custom%20based%20on%201989%20cover%20art).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000540000 and rom copier for roms/tg16/Keith Courage in Alpha Zones.pce"
+  },
+  "0592000000570000": {
+    "id": "0592000000570000",
+    "name": "King of Casino [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/King%20of%20Casino%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000560000 and rom copier for roms/tg16/King of Casino.pce"
+  },
+  "0592000000590000": {
+    "id": "0592000000590000",
+    "name": "Klax [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Klax%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000580000 and rom copier for roms/tg16/Klax.pce"
+  },
+  "05920000005B0000": {
+    "id": "05920000005B0000",
+    "name": "Legend of Hero Tonma [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Legend%20of%20Hero%20Tonma%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000005a0000 and rom copier for roms/tg16/Legend of Hero Tonma.pce"
+  },
+  "05920000005D0000": {
+    "id": "05920000005D0000",
+    "name": "Legendary Axe II, The [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Legendary%20Axe%20II%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000005c0000 and rom copier for roms/tg16/Legendary Axe II, The.pce"
+  },
+  "05920000005F0000": {
+    "id": "05920000005F0000",
+    "name": "Legendary Axe, The [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Legendary%20Axe%20II%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000005e0000 and rom copier for roms/tg16/Legendary Axe, The.pce"
+  },
+  "0592000000610000": {
+    "id": "0592000000610000",
+    "name": "Magical Chase [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Magical%20Chase%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000600000 and rom copier for roms/tg16/Magical Chase.pce"
+  },
+  "0592000000630000": {
+    "id": "0592000000630000",
+    "name": "Military Madness [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Military%20Madness%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000620000 and rom copier for roms/tg16/Military Madness.pce"
+  },
+  "0592000000650000": {
+    "id": "0592000000650000",
+    "name": "Moto Roader [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Moto%20Roader%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000640000 and rom copier for roms/tg16/Moto Roader.pce"
+  },
+  "0592000000670000": {
+    "id": "0592000000670000",
+    "name": "Neutopia II [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Neutopia%20II%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000660000 and rom copier for roms/tg16/Neutopia II.pce"
+  },
+  "0592000000690000": {
+    "id": "0592000000690000",
+    "name": "Neutopia [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Neutopia%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000680000 and rom copier for roms/tg16/Neutopia.pce"
+  },
+  "05920000006B0000": {
+    "id": "05920000006B0000",
+    "name": "New Adventure Island [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/New%20Adventure%20Island%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000006a0000 and rom copier for roms/tg16/New Adventure Island.pce"
+  },
+  "05920000006D0000": {
+    "id": "05920000006D0000",
+    "name": "Night Creatures [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Night%20Creatures%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000006c0000 and rom copier for roms/tg16/Night Creatures.pce"
+  },
+  "05920000006F0000": {
+    "id": "05920000006F0000",
+    "name": "Ninja Spirit [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Ninja%20Spirit%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000006e0000 and rom copier for roms/tg16/Ninja Spirit.pce"
+  },
+  "0592000000710000": {
+    "id": "0592000000710000",
+    "name": "Order of the Griffon [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Order%20of%20the%20Griffon%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000700000 and rom copier for roms/tg16/Order of the Griffon.pce"
+  },
+  "0592000000730000": {
+    "id": "0592000000730000",
+    "name": "Ordyne [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Ordyne%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000720000 and rom copier for roms/tg16/Ordyne.pce"
+  },
+  "0592000000750000": {
+    "id": "0592000000750000",
+    "name": "Pac-Land [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Pac-Land%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000740000 and rom copier for roms/tg16/Pac-Land.pce"
+  },
+  "0592000000770000": {
+    "id": "0592000000770000",
+    "name": "Parasol Stars - The Story of Bubble Bobble III [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Dragon%20Slayer%20-%20The%20Legend%20of%20Heroes%20(CD)%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000760000 and rom copier for roms/tg16/Parasol Stars - The Story of Bubble Bobble III.pce"
+  },
+  "0592000000790000": {
+    "id": "0592000000790000",
+    "name": "Power Golf [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Power%20Golf%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000780000 and rom copier for roms/tg16/Power Golf.pce"
+  },
+  "05920000007B0000": {
+    "id": "05920000007B0000",
+    "name": "Psychosis [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Pyschosis%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000007a0000 and rom copier for roms/tg16/Psychosis.pce"
+  },
+  "05920000007D0000": {
+    "id": "05920000007D0000",
+    "name": "R-Type [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/R-Type%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000007c0000 and rom copier for roms/tg16/R-Type.pce"
+  },
+  "05920000007F0000": {
+    "id": "05920000007F0000",
+    "name": "Raiden [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Raiden%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000007e0000 and rom copier for roms/tg16/Raiden.pce"
+  },
+  "0592000000810000": {
+    "id": "0592000000810000",
+    "name": "Samurai-Ghost [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Samurai%20Ghost%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000800000 and rom copier for roms/tg16/Samurai-Ghost.pce"
+  },
+  "0592000000830000": {
+    "id": "0592000000830000",
+    "name": "Shockman [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Shock%20Man%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000820000 and rom copier for roms/tg16/Shockman.pce"
+  },
+  "0592000000850000": {
+    "id": "0592000000850000",
+    "name": "SideArms - Hyper Dyne [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Side%20Arms%20-%20Hyper%20Dyne%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000840000 and rom copier for roms/tg16/SideArms - Hyper Dyne.pce"
+  },
+  "0592000000870000": {
+    "id": "0592000000870000",
+    "name": "Silent Debuggers [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Silent%20Debuggers%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000860000 and rom copier for roms/tg16/Silent Debuggers.pce"
+  },
+  "0592000000890000": {
+    "id": "0592000000890000",
+    "name": "Sinistron [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Sinistron%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000880000 and rom copier for roms/tg16/Sinistron.pce"
+  },
+  "05920000008B0000": {
+    "id": "05920000008B0000",
+    "name": "Soldier Blade [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Soldier%20Blade%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000008a0000 and rom copier for roms/tg16/Soldier Blade.pce"
+  },
+  "05920000008D0000": {
+    "id": "05920000008D0000",
+    "name": "Somer Assault [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Somer%20Assault%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000008c0000 and rom copier for roms/tg16/Somer Assault.pce"
+  },
+  "05920000008F0000": {
+    "id": "05920000008F0000",
+    "name": "Sonic Spike - World Championship Beach Volleyball [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/World%20Class%20Baseball%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000008e0000 and rom copier for roms/tg16/Sonic Spike - World Championship Beach Volleyball.pce"
+  },
+  "0592000000910000": {
+    "id": "0592000000910000",
+    "name": "Space Harrier [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Space%20Harrier%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000900000 and rom copier for roms/tg16/Space Harrier.pce"
+  },
+  "0592000000930000": {
+    "id": "0592000000930000",
+    "name": "Splatterhouse [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Splatterhouse%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000920000 and rom copier for roms/tg16/Splatterhouse.pce"
+  },
+  "0592000000950000": {
+    "id": "0592000000950000",
+    "name": "Super Star Soldier [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Super%20Star%20Soldier%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000940000 and rom copier for roms/tg16/Super Star Soldier.pce"
+  },
+  "0592000000970000": {
+    "id": "0592000000970000",
+    "name": "Super Volleyball [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Super%20Volleyball%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000960000 and rom copier for roms/tg16/Super Volleyball.pce"
+  },
+  "0592000000990000": {
+    "id": "0592000000990000",
+    "name": "Taito Chase H.Q. [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Chase%20H.Q.%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000980000 and rom copier for roms/tg16/Taito Chase H.Q..pce"
+  },
+  "05920000009B0000": {
+    "id": "05920000009B0000",
+    "name": "Takin' It to the Hoop [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Takin_%20it%20to%20the%20Hoop%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000009a0000 and rom copier for roms/tg16/Takin' It to the Hoop.pce"
+  },
+  "05920000009D0000": {
+    "id": "05920000009D0000",
+    "name": "TaleSpin [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Tale%20Spin%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000009c0000 and rom copier for roms/tg16/TaleSpin.pce"
+  },
+  "05920000009F0000": {
+    "id": "05920000009F0000",
+    "name": "Tiger Road [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Tiger%20Road%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 05920000009e0000 and rom copier for roms/tg16/Tiger Road.pce"
+  },
+  "0592000000A10000": {
+    "id": "0592000000A10000",
+    "name": "Time Cruise [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Time%20Cruise%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000a00000 and rom copier for roms/tg16/Time Cruise.pce"
+  },
+  "0592000000A30000": {
+    "id": "0592000000A30000",
+    "name": "Timeball [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Timeball%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000a20000 and rom copier for roms/tg16/Timeball.pce"
+  },
+  "0592000000A50000": {
+    "id": "0592000000A50000",
+    "name": "Tricky Kick [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Tricky%20Kick%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000a40000 and rom copier for roms/tg16/Tricky Kick.pce"
+  },
+  "0592000000A70000": {
+    "id": "0592000000A70000",
+    "name": "Turrican [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Turrican%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000a60000 and rom copier for roms/tg16/Turrican.pce"
+  },
+  "0592000000A90000": {
+    "id": "0592000000A90000",
+    "name": "TV Sports Basketball [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/TV%20Sports%20Basketball%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000a80000 and rom copier for roms/tg16/TV Sports Basketball.pce"
+  },
+  "0592000000AB0000": {
+    "id": "0592000000AB0000",
+    "name": "TV Sports Football [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/TV%20Sports%20Football%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000aa0000 and rom copier for roms/tg16/TV Sports Football.pce"
+  },
+  "0592000000AD0000": {
+    "id": "0592000000AD0000",
+    "name": "TV Sports Hockey [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/TV%20Sports%20Hockey%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000ac0000 and rom copier for roms/tg16/TV Sports Hockey.pce"
+  },
+  "0592000000AF0000": {
+    "id": "0592000000AF0000",
+    "name": "Veigues - Tactical Gladiator [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Veigues%20Tactical%20Gladiator%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000ae0000 and rom copier for roms/tg16/Veigues - Tactical Gladiator.pce"
+  },
+  "0592000000B10000": {
+    "id": "0592000000B10000",
+    "name": "Victory Run [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Victory%20Run%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000b00000 and rom copier for roms/tg16/Victory Run.pce"
+  },
+  "0592000000B30000": {
+    "id": "0592000000B30000",
+    "name": "Vigilante [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Vigilante%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000b20000 and rom copier for roms/tg16/Vigilante.pce"
+  },
+  "0592000000B50000": {
+    "id": "0592000000B50000",
+    "name": "World Class Baseball [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/World%20Class%20Baseball%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000b40000 and rom copier for roms/tg16/World Class Baseball.pce"
+  },
+  "0592000000B70000": {
+    "id": "0592000000B70000",
+    "name": "World Court Tennis [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/World%20Court%20Tennis%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000b60000 and rom copier for roms/tg16/World Court Tennis.pce"
+  },
+  "0592000000B90000": {
+    "id": "0592000000B90000",
+    "name": "World Sports Competition [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/World%20Sports%20Competition%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000b80000 and rom copier for roms/tg16/World Sports Competition.pce"
+  },
+  "0592000000BB0000": {
+    "id": "0592000000BB0000",
+    "name": "Yo, Bro [tg16]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/tg16/Yo%20Bro%20(USA).png",
+    "region": "US",
+    "description": "Forwarder installer for 0592000000ba0000 and rom copier for roms/tg16/Yo, Bro.pce"
   }
+
 }
