@@ -6341,6 +6341,13 @@
     "region": "US",
     "description": "Forwarder installer for 0510800007120000 and rom copier for roms/3ds/Doubutsu no Mori - Happy Home Designer.3ds"
   },
+  "0510800007150000": {
+    "id": "0510800007150000",
+    "name": "Digimon World Re Digitize Decode English Patched [3ds]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/3ds/Digimon%20World%20Re%20Digitize%20Decode%20English%20Patched.png",
+    "region": "US",
+    "description": "Forwarder installer for 0510800007140000 and rom copier for roms/3ds/Digimon World Re Digitize Decode English Patched.cia"
+  },
   "0541700000010000": {
     "id": "0541700000010000",
     "name": "Adventures of Batman & Robin, The [sgg]",
@@ -17099,6 +17106,48 @@
     "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/nds/Zubo.png",
     "region": "US",
     "description": "Forwarder installer for 0527500008180000 and rom copier for roms/nds/Zubo.nds"
+  },
+  "05275000081B0000": {
+    "id": "05275000081B0000",
+    "name": "Castlevania - Dawn of Dissonance Belnades Blood Edition [nds]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/nds/Castlevania%20-%20Dawn%20of%20Dissonance%20Belnades%20Blood%20Edition.png",
+    "region": "US",
+    "description": "Forwarder installer for 05275000081a0000 and rom copier for roms/nds/Castlevania - Dawn of Dissonance Belnades Blood Edition.nds"
+  },
+  "05275000081D0000": {
+    "id": "05275000081D0000",
+    "name": "Castlevania - Portrait of Elegance [nds]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/nds/Castlevania%20-%20Portrait%20of%20Elegance.png",
+    "region": "US",
+    "description": "Forwarder installer for 05275000081c0000 and rom copier for roms/nds/Castlevania - Portrait of Elegance.nds"
+  },
+  "05275000081F0000": {
+    "id": "05275000081F0000",
+    "name": "Castlevania - Rondo of Ruin Rondo of Blood Richter [nds]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/nds/Castlevania%20-%20Rondo%20of%20Ruin%20Rondo%20of%20Blood%20Richter.png",
+    "region": "US",
+    "description": "Forwarder installer for 05275000081e0000 and rom copier for roms/nds/Castlevania - Rondo of Ruin Rondo of Blood Richter.nds"
+  },
+  "0527500008210000": {
+    "id": "0527500008210000",
+    "name": "Castlevania - Rondo of Ruin Symphony of the Night Tailcoat Richter [nds]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/nds/Castlevania%20-%20Rondo%20of%20Ruin%20Symphony%20of%20the%20Night%20Tailcoat%20Richter.png",
+    "region": "US",
+    "description": "Forwarder installer for 0527500008200000 and rom copier for roms/nds/Castlevania - Rondo of Ruin Symphony of the Night Tailcoat Richter.nds"
+  },
+  "0527500008230000": {
+    "id": "0527500008230000",
+    "name": "Percy Jackson and the Olympians - The Lightning Thief [nds]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/nds/Percy%20Jackson%20&%20the%20Lightning%20Thief.png",
+    "region": "US",
+    "description": "Forwarder installer for 0527500008220000 and rom copier for roms/nds/Percy Jackson and the Olympians - The Lightning Thief.nds"
+  },
+  "0527500008250000": {
+    "id": "0527500008250000",
+    "name": "Pokemon Black 2 Redux Complete v1.4.1 [nds]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/nds/Pokemon%20Black%202%20Redux%20Complete%20v1.4.1.png",
+    "region": "US",
+    "description": "Forwarder installer for 0527500008240000 and rom copier for roms/nds/Pokemon Black 2 Redux Complete v1.4.1.nds"
   },
   "0557200000010000": {
     "id": "0557200000010000",
@@ -29671,6 +29720,13 @@
     "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/psp/DreamWorks%20Shrek%20-%20Smash%20n'%20Crash%20Racing.png",
     "region": "US",
     "description": "Forwarder installer for 0510300006ae0000 and rom copier for roms/psp/DreamWorks Shrek - Smash n' Crash Racing.cso"
+  },
+  "0510300006B10000": {
+    "id": "0510300006B10000",
+    "name": "Patapon 3 DxD [psp]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/psp/Patapon%203%20DxD.png",
+    "region": "US",
+    "description": "Forwarder installer for 0510300006b00000 and rom copier for roms/psx/Patapon 3 DxD.PBP"
   },
   "0562500000010000": {
     "id": "0562500000010000",
@@ -45982,6 +46038,41 @@
     "region": "US",
     "description": "Forwarder installer for 0510700003890000 and rom copier for roms/psx/WWFATTITUDE.PBP"
   },
+  "05107000038B0000": {
+    "id": "05107000038B0000",
+    "name": "Bakusou Kyoudai Let's & Go!! Eternal Wings Japan [psx]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/psx/Bakusou%20Kyoudai%20Let's%20&%20Go!!%20Eternal%20Wings%20Japan.png",
+    "region": "US",
+    "description": "Forwarder installer for 05107000038a0000 and rom copier for roms/psx/Bakusou Kyoudai Let's & Go!! Eternal Wings Japan.chd"
+  },
+  "05107000038D0000": {
+    "id": "05107000038D0000",
+    "name": "Command & Conquer - Red Alert - Retaliation Disc 1 Allies [psx]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/psx/Command%20&%20Conquer%20-%20Red%20Alert%20-%20Retaliation.png",
+    "region": "US",
+    "description": "Forwarder installer for 05107000038c0000 and rom copier for roms/psx/Command & Conquer - Red Alert - Retaliation Disc 1 Allies.chd"
+  },
+  "05107000038F0000": {
+    "id": "05107000038F0000",
+    "name": "Command & Conquer - Red Alert - Retaliation Disc 2 Soviet [psx]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/psx/Command%20&%20Conquer%20-%20Red%20Alert%20-%20Retaliation.png",
+    "region": "US",
+    "description": "Forwarder installer for 05107000038e0000 and rom copier for roms/psx/Command & Conquer - Red Alert - Retaliation Disc 2 Soviet.chd"
+  },
+  "0510700003910000": {
+    "id": "0510700003910000",
+    "name": "Alundra 2 - A New Legend Begins [psx]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/psx/Alundra%202%20-%20A%20New%20Legend%20Begins.png",
+    "region": "US",
+    "description": "Forwarder installer for 0510700003900000 and rom copier for roms/psx/Alundra 2 - A New Legend Begins.chd"
+  },
+  "0510700003930000": {
+    "id": "0510700003930000",
+    "name": "Alundra [psx]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/psx/Alundra.png",
+    "region": "US",
+    "description": "Forwarder installer for 0510700003920000 and rom copier for roms/psx/Alundra.chd"
+  },
   "0557400000010000": {
     "id": "0557400000010000",
     "name": "Adventure Island II - Aliens in Paradise [gb]",
@@ -56356,6 +56447,27 @@
     "region": "US",
     "description": "Forwarder installer for 05158000086c0000 and rom copier for roms/gba/ZooCube.gba"
   },
+  "05158000086F0000": {
+    "id": "05158000086F0000",
+    "name": "Pokemon AshGray 4.5.3 [gba]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/gba/Pokemon%20AshGray%204.5.3.png",
+    "region": "US",
+    "description": "Forwarder installer for 05158000086e0000 and rom copier for roms/gba/Pokemon AshGray 4.5.3.gba"
+  },
+  "0515800008710000": {
+    "id": "0515800008710000",
+    "name": "Pokemon Clover v1.3.1 [gba]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/gba/Pokemon%20Clover%20v1.3.1.png",
+    "region": "US",
+    "description": "Forwarder installer for 0515800008700000 and rom copier for roms/gba/Pokemon Clover v1.3.1.gba"
+  },
+  "0515800008730000": {
+    "id": "0515800008730000",
+    "name": "Pokemon Radical Red v4.0 [gba]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/gba/Pokemon%20Radical%20Red%20v4.0.png",
+    "region": "US",
+    "description": "Forwarder installer for 0515800008720000 and rom copier for roms/gba/Pokemon Radical Red v4.0.gba"
+  },
   "0526900000010000": {
     "id": "0526900000010000",
     "name": "10-Pin Bowling [gbc]",
@@ -58189,6 +58301,20 @@
     "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/gbc/Yu-Gi-Oh!%20Dark%20Duel%20Stories.png",
     "region": "US",
     "description": "Forwarder installer for 05269000020a0000 and rom copier for roms/gb/Yu-Gi-Oh! Dark Duel Stories.gbc"
+  },
+  "05269000020E0000": {
+    "id": "05269000020E0000",
+    "name": "Pokemon Crystal Clear - Standard v2.5.8 [gbc]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/gbc/Pokemon%20Crystal%20Clear%20-%20Standard%20v2.5.8.png",
+    "region": "US",
+    "description": "Forwarder installer for 05269000020d0000 and rom copier for roms/gb/Pokemon Crystal Clear - Standard v2.5.8.gbc"
+  },
+  "0526900002100000": {
+    "id": "0526900002100000",
+    "name": "Pokemon TCG Neo v1.11 [gbc]",
+    "iconUrl": "https://raw.githubusercontent.com/teknik-app/forwarder-images/main/gbc/Pokemon%20TCG%20Neo%20v1.11.png",
+    "region": "US",
+    "description": "Forwarder installer for 05269000020f0000 and rom copier for roms/gb/Pokemon TCG Neo v1.11.gbc"
   },
   "05400E35ADAD2000": {
     "id": "05400E35ADAD2000",
